@@ -373,7 +373,7 @@
 | [Microsoft Teams](https://teams.microsoft.com/) | Microsoft Teams is the hub for team collaboration in Microsoft 365 that integrates the people, content, and tools your team needs. |
 | [Gitter](https://gitter.im/) | Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery. |
 | [Flock](https://www.flock.com/) | Your new home for collaboration. |
-
+| [flat.social](https://www.flat.social/) | Spatial online meetings for remote teams that promote collaboration, creativity and spontaneous interactions. |
 ### Email
 
 | Link | Description |
